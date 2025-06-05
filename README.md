@@ -1,1 +1,4 @@
-# tendencias
+## Tarea
+# EVALUACIÓN DE LA IA EN EL DESARROLLO DE SOFTWARE
+Isabella Dompé 2021-0057U
+Hotep Ruiz 2021-0114U
